@@ -23,4 +23,6 @@ public class Greeter {
     Greeter greeter = new Greeter(language, country, name);
     System.out.println(greeter.sayHello());
   }
+
+  // bug fix
 }
